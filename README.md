@@ -1,2 +1,1 @@
-# AtividadeLaboratorioIE
-Repositório para a atividade de Integração e Entrega Continua 
+# Essa branch é para desenvolvimento do FrontEnd
